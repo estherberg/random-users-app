@@ -34,7 +34,7 @@ This is a full-stack web application that displays a list of users fetched from 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 backend/
 ├── Controllers/
