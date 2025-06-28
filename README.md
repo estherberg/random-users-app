@@ -1,8 +1,8 @@
-# 🧑‍💻 Random Users App (React + .NET)
+# Random Users App (React + .NET)
 
 This is a full-stack web application that displays a list of users fetched from the [Random User API](https://randomuser.me/). The project is built using a .NET Web API for the backend and a React + TypeScript frontend.
 
-## 🎯 Features
+## Features
 
 - Fetches and caches users from RandomUser.me
 - Displays users in a paginated list (Lobby screen)
@@ -14,7 +14,7 @@ This is a full-stack web application that displays a list of users fetched from 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -55,7 +55,7 @@ frontend/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -79,11 +79,11 @@ npm run dev
 The frontend will run on: http://localhost:3000
 
 
-## 🧾 API Endpoints (Swagger)
+## API Endpoints (Swagger)
 
 You can test all the API endpoints using Swagger UI:
 
-➡️ http://localhost:5149/swagger
+http://localhost:5149/swagger
 
 ### Available Endpoints:
 - `GET /api/users`
