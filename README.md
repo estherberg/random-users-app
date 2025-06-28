@@ -77,3 +77,15 @@ cd frontend
 npm install
 npm run dev
 The frontend will run on: http://localhost:3000
+
+
+## 🧾 API Endpoints (Swagger)
+
+You can test all the API endpoints using Swagger UI:
+
+➡️ http://localhost:5149/swagger
+
+### Available Endpoints:
+- `GET /api/users`
+- `GET /api/users/{id}`
+- `GET /api/users/search?query={term}`
